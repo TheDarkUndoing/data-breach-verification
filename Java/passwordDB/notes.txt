@@ -1,0 +1,6 @@
+Database Schema Mongo
+{
+"user":"username or email"
+"pass":["pass","word"]
+"count" : 2
+}
